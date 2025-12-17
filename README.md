@@ -1,10 +1,15 @@
-# audio-control
+### Installation & Setup
 
-1. Verkable die rotary encoder an den Microcontroller.
-2. Uploade die sketch_dec17b.ino datei aus dem ordner sketch_dec17b/ mit deinen Pin belegungen auf den microcontroller und passe je nachdem die anzahl der rotary encoder an.
-3. Nutze die .exe oder audio-control.py und passe den com port in der im gleichen ordner liegenden config.json datei an, falls kein com port angegeben wird wird das erste gefundene gerät verwendet das ein com port nutzt.
-4. Ändere die channels in der config.json, man hat 3 optionen:
-   | Master | Verändert die Gesamt Lautstärke. |
-   | foreground | Verändert die Lautstärke des im Vordergrund befindenden Prozesses. |
-   | app | Verändert die Lautstärke einer selbst ausgewählten App. |
-5. (Optional) Erstelle eine Verknüpfung der .exe im Windows Autostart Ordner.
+1. **Hardware:** Connect your rotary encoders to the microcontroller.
+2. **Firmware:** Upload the `sketch_dec17b.ino` from the `/sketch_dec17b` folder. Ensure the pin assignments in the code match your wiring and adjust the number of encoders if necessary.
+3. **Configuration:** Run the `.exe` or `audio-control.py`. Make sure to edit the `config.json` in the same directory.
+   - Set the `com_port` (if left empty, the app will auto-connect to the first available COM device).
+   - Configure your channels using these three options:
+
+| Channel Option | Description |
+| :--- | :--- |
+| **master** | Adjusts the global Windows system volume. |
+| **foreground** | Adjusts the volume of the application currently in focus. |
+| **app.exe** | Adjusts the volume of a specific app (e.g., `spotify.exe`). |
+
+4. **Autostart (Optional):** Create a shortcut of the `.exe` and place it in the Windows Startup folder (`shell:startup`) to launch it automatically on boot.
