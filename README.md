@@ -1,4 +1,4 @@
-# Windows Audio Control 🎛️
+# Windows Audio Control
 
 ![Windows](https://img.shields.io/badge/Platform-Windows-0078d7.svg?style=for-the-badge&logo=windows)
 ![Python](https://img.shields.io/badge/Python-3.13-3776ab.svg?style=for-the-badge&logo=python)
