@@ -17,3 +17,6 @@
 | **app.exe** | Adjusts the volume of a specific app (e.g., `spotify.exe`). |
 
 4. **Autostart (Optional):** Create a shortcut of the `.exe` and place it in the Windows Startup folder (`shell:startup`) to launch it automatically on boot.
+
+Features
+- **Visual Feedback**: Compatible with EarTrumpet (triggers the flyout via shortcut for a modern UI experience).
