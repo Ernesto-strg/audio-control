@@ -1,0 +1,18 @@
+{
+    "connection": {
+        "port": "COM6",
+        "baud_rate": 9600
+    },
+    "settings": {
+        "step": 0.02,
+        "flyout_time": 1.5,
+        "flyout_hotkey": ["winleft", "alt", "o"],
+        "sleep_time": 0.02
+    },
+    "channels": [
+        { "id": 1, "type": "master" },
+        { "id": 2, "type": "app", "target": "firefox.exe" },
+        { "id": 3, "type": "foreground" },
+        { "id": 4, "type": "app", "target": "discord.exe" }
+    ]
+}
