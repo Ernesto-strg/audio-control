@@ -14,9 +14,6 @@ Control your Windows master, app-specific, and foreground process volumes with y
 - **Auto-Reconnect**: Automatically restores connection if the Arduino is unplugged.
 
 ## 🚀 Installation & Setup
-
-### Installation & Setup
-
 1. **Hardware:** Connect your rotary encoders to the microcontroller.
 2. **Firmware:** Upload the `sketch_dec17b.ino` from the `/sketch_dec17b` folder. Ensure the pin assignments in the code match your wiring and adjust the number of encoders if necessary.
 3. **Configuration:** Run the `.exe` or `audio-control.py`. Make sure to edit the `config.json` in the same directory.
