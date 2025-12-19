@@ -5,7 +5,7 @@
 ![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)
 
 <p align="center">
-  <img src="assets/WinAudioControl.png" alt="WinAudioControl Logo" width="300">
+  <img src="assets/win-audio-control.png" alt="WinAudioControl Logo" width="300">
 </p>
 
 <h1 align="center">WinAudioControl</h1>
