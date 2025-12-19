@@ -36,6 +36,7 @@ Control your Windows master, app-specific, and foreground process volumes with y
 | **foreground** | Adjusts the volume of the application currently in focus. |
 | **app.exe** | Adjusts the volume of a specific app (e.g., `spotify.exe`). |
 
-4. **Autostart (Optional):** Create a shortcut of the `.exe` and place it in the Windows Startup folder (`shell:startup`) to launch it automatically on boot.
    - `flyout_hotkey`: Must match your EarTrumpet "Settings > Shortcuts" hotkey.
+
+4. **Autostart (Optional):** Create a shortcut of the `.exe` and place it in the Windows Startup folder (`shell:startup`) to launch it automatically on boot.
 5. **Run:** Start `audio-control.exe` or run `python audio-control.py`.
