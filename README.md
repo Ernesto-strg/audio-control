@@ -8,12 +8,6 @@
   <img src="assets/win-audio-control.png" alt="WinAudioControl Logo" width="300">
 </p>
 
-<h1 align="center">WinAudioControl</h1>
-
-<p align="center">
-  Ein Python-basiertes Tool zur Hardware-Steuerung der Windows-Audiomixer.
-</p>
-
 Control your Windows master, app-specific, and foreground process volumes with your own microcontroller and rotary encoders.
 
 ## ✨ Features
