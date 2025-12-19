@@ -4,9 +4,7 @@
 ![Python](https://img.shields.io/badge/Python-3.13-3776ab.svg?style=for-the-badge&logo=python)
 ![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)
 
-<p align="center">
-  <img src="assets/win-audio-control.png" alt="WinAudioControl Logo" width="300">
-</p>
+![WinAudioControl Logo](assets/win-audio-control.png)
 
 <p align="center">
 Control your Windows master, app-specific, and foreground process volumes with your own microcontroller and rotary encoders.
