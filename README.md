@@ -1,5 +1,7 @@
 # Windows Audio Control
 
+![WinAudioControl Logo](assets/win-audio-control.png)
+
 ![Windows](https://img.shields.io/badge/Platform-Windows-0078d7.svg?style=for-the-badge&logo=windows)
 ![Python](https://img.shields.io/badge/Python-3.13-3776ab.svg?style=for-the-badge&logo=python)
 ![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)
