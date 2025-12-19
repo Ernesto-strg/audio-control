@@ -41,3 +41,13 @@ Control your Windows master, app-specific, and foreground process volumes with y
 
 4. **Autostart (Optional):** Create a shortcut of the `.exe` and place it in the Windows Startup folder (`shell:startup`) to launch it automatically on boot.
 5. **Run:** Start `audio-control.exe` or run `python audio-control.py`.
+
+## Recommended software: EarTrumpet
+
+For the best visual experience, I recommend using **[EarTrumpet](https://eartrumpet.app/)**. My hardware controller works perfectly with EarTrumpet to precisely control the volume of individual apps.
+
+<p align="center">
+  <img src="https://github.com/File-New-Project/EarTrumpet/blob/master/Graphics/hero.gif" alt="EarTrumpet Demo" width="400">
+  <br>
+  <em>(Image source: EarTrumpet Project - To illustrate app control)</em>
+</p>
